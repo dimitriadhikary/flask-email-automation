@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+
+# Logs & Excel files
+uploads/
+sent_logs/
+*.log
+*.xlsx
+
+# Flask files
+instance/
+*.db
+
+# System files
+.DS_Store
+Thumbs.db
